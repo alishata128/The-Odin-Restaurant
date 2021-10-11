@@ -28,14 +28,10 @@ body{
     height: 100px;
     background-color: #323E40;
     border: 0px solid transparent;
-    border-bottom-right-radius:150px ;
-    border-bottom-left-radius:150px ;
+    border-bottom-right-radius:70px ;
+    border-bottom-left-radius:70px ;
 }
 
-#nav-bar-list-item{
-    border-bottom-right-radius:150px ;
-    border-bottom-left-radius:150px ;
-}
 
 #nav-bar-list-item a {
     text-decoration: none;
